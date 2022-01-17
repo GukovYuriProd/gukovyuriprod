@@ -1,6 +1,6 @@
 [![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/Mountain%20Landscape%20Twitter%20Header.png)](https://vk.com/yurigukov)
 
-## I'm a beginner software engineer
+## Beginner software engineer
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-010a1c?style=for-the-badge&logo=c%2b%2b&logoColor=bb7db2)
