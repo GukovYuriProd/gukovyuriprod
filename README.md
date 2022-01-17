@@ -15,3 +15,5 @@
 [![INST](https://img.shields.io/badge/-INSTAGRAM-010a1c?style=for-the-badge&logo=instagram)](https://www.instagram.com/gukov_y_)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-010a1c?style=for-the-badge&logo=telegram)](https://t.me/GukovYIProd)
 [![Twitter](https://img.shields.io/badge/-TWITTER-010a1c?style=for-the-badge&logo=twitter)](https://twitter.com/Gukov_product)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GukovYuriProd&show_icons=true)
