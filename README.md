@@ -1,0 +1,1 @@
+[![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/nWun602nrRE.jpg)](https://vk.com/yurigukov)
