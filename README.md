@@ -1,4 +1,4 @@
-[![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/nWun602nrRE.jpg)](https://vk.com/yurigukov)
+<!-- [![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/nWun602nrRE.jpg)](https://vk.com/yurigukov) -->
 
 ## I'm a beginner software engineer
 
