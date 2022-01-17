@@ -1,7 +1,6 @@
 [![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/nWun602nrRE.jpg)](https://vk.com/yurigukov)
 
 ## I'm a beginner software engineer
-#
 
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-0a1417?style=for-the-badge&logo=c%2b%2b&logoColor=bb7db2)
