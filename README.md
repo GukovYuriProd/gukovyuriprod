@@ -2,9 +2,6 @@
 
 ## Beginner software engineer
 
-### Projects
-#### ![Desktop application "Electronic Diary" for schoolchildren.](https://github.com/GukovYuriProd/RedBook)
-
 ### Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-010a1c?style=for-the-badge&logo=c%2b%2b&logoColor=bb7db2)
 ![.NET](https://img.shields.io/badge/-.NET-010a1c?style=for-the-badge&logo=.NET&logoColor=bb7db2)
