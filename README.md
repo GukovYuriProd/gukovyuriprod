@@ -1,6 +1,6 @@
 [![Header](https://github.com/GukovYuriProd/gukovyuriprod/blob/main/assets/Mountain%20Landscape%20Twitter%20Header.png)](https://vk.com/yurigukov)
 
-## Beginner software engineer
+## Software engineer
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-010a1c?style=for-the-badge&logo=Oracle)
@@ -18,5 +18,3 @@
 [![Twitter](https://img.shields.io/badge/-TWITTER-010a1c?style=for-the-badge&logo=twitter)](https://twitter.com/Gukov_product)
 ##
 ![CodeWars](https://www.codewars.com/users/GukovYI/badges/large)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GukovYuriProd&show_icons=true)
