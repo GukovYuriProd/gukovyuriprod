@@ -15,6 +15,4 @@
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-010a1c?style=for-the-badge&logo=telegram)](https://t.me/GukovYIProd)
 [![Twitter](https://img.shields.io/badge/-TWITTER-010a1c?style=for-the-badge&logo=twitter)](https://twitter.com/Gukov_product)
 
-[![CodeWars](https://www.codewars.com/users/GukovYI/badges/large)]
-
 <img src="/assets/waves.svg" width="100%" height="150">
